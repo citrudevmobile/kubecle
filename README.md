@@ -1,2 +1,2 @@
 # kubecle
-Crypto Payday Loans on Hosted Apps
+Crypto Payday Loans on Hosted PWA Apps
