@@ -8,3 +8,5 @@ Crypto payday loans on hosted PWA (progressive web apps). For example, Flippa (h
 If you think this is such a great idea, why should it be open source when many competitors would be scrambling to implement the idea as proprietary software and make a profit?
 
 This is what I think: we are creating a new standard. We are taking inventory of what we consider to have value and pairing it with other valueable digital assets. Example: Bitcoin vs. PWA 
+
+Therefore, the core (PWA escrow) that enables this interaction should be open source, and then we can build many applications on top of that.
